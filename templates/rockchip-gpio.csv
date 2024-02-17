@@ -1,0 +1,160 @@
+gpio0, RK_PA0, 0,  0x00
+gpio0, RK_PA1, 1,  0x01
+gpio0, RK_PA2, 2,  0x02
+gpio0, RK_PA3, 3,  0x03
+gpio0, RK_PA4, 4,  0x04
+gpio0, RK_PA5, 5,  0x05
+gpio0, RK_PA6, 6,  0x06
+gpio0, RK_PA7, 7,  0x07
+gpio0, RK_PB0, 8,  0x08
+gpio0, RK_PB1, 9,  0x09
+gpio0, RK_PB2, 10, 0x0A
+gpio0, RK_PB3, 11, 0x0B
+gpio0, RK_PB4, 12, 0x0C
+gpio0, RK_PB5, 13, 0x0D
+gpio0, RK_PB6, 14, 0x0E
+gpio0, RK_PB7, 15, 0x0F
+gpio0, RK_PC0, 16, 0x10
+gpio0, RK_PC1, 17, 0x11
+gpio0, RK_PC2, 18, 0x12
+gpio0, RK_PC3, 19, 0x13
+gpio0, RK_PC4, 20, 0x14
+gpio0, RK_PC5, 21, 0x15
+gpio0, RK_PC6, 22, 0x16
+gpio0, RK_PC7, 23, 0x17
+gpio0, RK_PD0, 24, 0x18
+gpio0, RK_PD1, 25, 0x19
+gpio0, RK_PD2, 26, 0x1A
+gpio0, RK_PD3, 27, 0x1B
+gpio0, RK_PD4, 28, 0x1C
+gpio0, RK_PD5, 29, 0x1D
+gpio0, RK_PD6, 30, 0x1E
+gpio0, RK_PD7, 31, 0x1F
+gpio1, RK_PA0, 32
+gpio1, RK_PA1, 33
+gpio1, RK_PA2, 34
+gpio1, RK_PA3, 35
+gpio1, RK_PA4, 36
+gpio1, RK_PA5, 37
+gpio1, RK_PA6, 38
+gpio1, RK_PA7, 39
+gpio1, RK_PB0, 40
+gpio1, RK_PB1, 41
+gpio1, RK_PB2, 42
+gpio1, RK_PB3, 43
+gpio1, RK_PB4, 44
+gpio1, RK_PB5, 45
+gpio1, RK_PB6, 46
+gpio1, RK_PB7, 47
+gpio1, RK_PC0, 48
+gpio1, RK_PC1, 49
+gpio1, RK_PC2, 50
+gpio1, RK_PC3, 51
+gpio1, RK_PC4, 52
+gpio1, RK_PC5, 53
+gpio1, RK_PC6, 54
+gpio1, RK_PC7, 55
+gpio1, RK_PD0, 56
+gpio1, RK_PD1, 57
+gpio1, RK_PD2, 58
+gpio1, RK_PD3, 59
+gpio1, RK_PD4, 60
+gpio1, RK_PD5, 61
+gpio1, RK_PD6, 62
+gpio1, RK_PD7, 63
+gpio2, RK_PA0, 64
+gpio2, RK_PA1, 65
+gpio2, RK_PA2, 66
+gpio2, RK_PA3, 67
+gpio2, RK_PA4, 68
+gpio2, RK_PA5, 69
+gpio2, RK_PA6, 70
+gpio2, RK_PA7, 71
+gpio2, RK_PB0, 72
+gpio2, RK_PB1, 73
+gpio2, RK_PB2, 74
+gpio2, RK_PB3, 75
+gpio2, RK_PB4, 76
+gpio2, RK_PB5, 77
+gpio2, RK_PB6, 78
+gpio2, RK_PB7, 79
+gpio2, RK_PC0, 80
+gpio2, RK_PC1, 81
+gpio2, RK_PC2, 82
+gpio2, RK_PC3, 83
+gpio2, RK_PC4, 84
+gpio2, RK_PC5, 85
+gpio2, RK_PC6, 86
+gpio2, RK_PC7, 87
+gpio2, RK_PD0, 88
+gpio2, RK_PD1, 89
+gpio2, RK_PD2, 90
+gpio2, RK_PD3, 91
+gpio2, RK_PD4, 92
+gpio2, RK_PD5, 93
+gpio2, RK_PD6, 94
+gpio2, RK_PD7, 95
+gpio3, RK_PA0, 96
+gpio3, RK_PA1, 97
+gpio3, RK_PA2, 98
+gpio3, RK_PA3, 99
+gpio3, RK_PA4, 100
+gpio3, RK_PA5, 101
+gpio3, RK_PA6, 102
+gpio3, RK_PA7, 103
+gpio3, RK_PB0, 104
+gpio3, RK_PB1, 105
+gpio3, RK_PB2, 106
+gpio3, RK_PB3, 107
+gpio3, RK_PB4, 108
+gpio3, RK_PB5, 109
+gpio3, RK_PB6, 110
+gpio3, RK_PB7, 111
+gpio3, RK_PC0, 112
+gpio3, RK_PC1, 113
+gpio3, RK_PC2, 114
+gpio3, RK_PC3, 115
+gpio3, RK_PC4, 116
+gpio3, RK_PC5, 117
+gpio3, RK_PC6, 118
+gpio3, RK_PC7, 119
+gpio3, RK_PD0, 120
+gpio3, RK_PD1, 121
+gpio3, RK_PD2, 122
+gpio3, RK_PD3, 123
+gpio3, RK_PD4, 124
+gpio3, RK_PD5, 125
+gpio3, RK_PD6, 126
+gpio3, RK_PD7, 127
+gpio4, RK_PA0, 128
+gpio4, RK_PA1, 129
+gpio4, RK_PA2, 130
+gpio4, RK_PA3, 131
+gpio4, RK_PA4, 132
+gpio4, RK_PA5, 133
+gpio4, RK_PA6, 134
+gpio4, RK_PA7, 135
+gpio4, RK_PB0, 136
+gpio4, RK_PB1, 137
+gpio4, RK_PB2, 138
+gpio4, RK_PB3, 139
+gpio4, RK_PB4, 140
+gpio4, RK_PB5, 141
+gpio4, RK_PB6, 142
+gpio4, RK_PB7, 143
+gpio4, RK_PC0, 144
+gpio4, RK_PC1, 145
+gpio4, RK_PC2, 146
+gpio4, RK_PC3, 147
+gpio4, RK_PC4, 148
+gpio4, RK_PC5, 149
+gpio4, RK_PC6, 150
+gpio4, RK_PC7, 151
+gpio4, RK_PD0, 152
+gpio4, RK_PD1, 153
+gpio4, RK_PD2, 154
+gpio4, RK_PD3, 155
+gpio4, RK_PD4, 156
+gpio4, RK_PD5, 157
+gpio4, RK_PD6, 158
+gpio4, RK_PD7, 159
